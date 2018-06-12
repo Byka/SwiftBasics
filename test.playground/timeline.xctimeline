@@ -3,37 +3,48 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=672&amp;EndingColumnNumber=0&amp;EndingLineNumber=45&amp;StartingColumnNumber=1&amp;StartingLineNumber=44&amp;Timestamp=550156854.349375"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=672&amp;EndingColumnNumber=0&amp;EndingLineNumber=45&amp;StartingColumnNumber=1&amp;StartingLineNumber=44&amp;Timestamp=550504293.889621"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=898&amp;EndingColumnNumber=30&amp;EndingLineNumber=53&amp;StartingColumnNumber=17&amp;StartingLineNumber=53&amp;Timestamp=550156854.349583"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=898&amp;EndingColumnNumber=30&amp;EndingLineNumber=53&amp;StartingColumnNumber=17&amp;StartingLineNumber=53&amp;Timestamp=550504293.889798"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=934&amp;EndingColumnNumber=30&amp;EndingLineNumber=54&amp;StartingColumnNumber=17&amp;StartingLineNumber=54&amp;Timestamp=550156854.3497339"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=934&amp;EndingColumnNumber=30&amp;EndingLineNumber=54&amp;StartingColumnNumber=17&amp;StartingLineNumber=54&amp;Timestamp=550504293.889928"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=2469&amp;EndingColumnNumber=21&amp;EndingLineNumber=153&amp;StartingColumnNumber=79&amp;StartingLineNumber=152&amp;Timestamp=550156854.349882"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=2469&amp;EndingColumnNumber=21&amp;EndingLineNumber=153&amp;StartingColumnNumber=79&amp;StartingLineNumber=152&amp;Timestamp=550504293.890061"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=2390&amp;EndingColumnNumber=8&amp;EndingLineNumber=152&amp;StartingColumnNumber=0&amp;StartingLineNumber=152&amp;Timestamp=550156854.350054"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=2390&amp;EndingColumnNumber=8&amp;EndingLineNumber=152&amp;StartingColumnNumber=0&amp;StartingLineNumber=152&amp;Timestamp=550504293.890184"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1199&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=5&amp;StartingLineNumber=78&amp;Timestamp=550156854.350204"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1199&amp;EndingColumnNumber=0&amp;EndingLineNumber=79&amp;StartingColumnNumber=5&amp;StartingLineNumber=78&amp;Timestamp=550504293.8903559"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1216&amp;EndingColumnNumber=0&amp;EndingLineNumber=80&amp;StartingColumnNumber=5&amp;StartingLineNumber=79&amp;Timestamp=550156854.35036"
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=1216&amp;EndingColumnNumber=0&amp;EndingLineNumber=80&amp;StartingColumnNumber=5&amp;StartingLineNumber=79&amp;Timestamp=550504293.89056"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=7346&amp;EndingColumnNumber=16&amp;EndingLineNumber=464&amp;StartingColumnNumber=9&amp;StartingLineNumber=464&amp;Timestamp=550504293.89072"
+         lockedSize = "{401, 80}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jnetmac/Desktop/SwiftBasics/test.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=7986&amp;EndingColumnNumber=0&amp;EndingLineNumber=500&amp;StartingColumnNumber=1&amp;StartingLineNumber=499&amp;Timestamp=550504293.890857"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>

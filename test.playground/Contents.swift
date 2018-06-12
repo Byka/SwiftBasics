@@ -435,7 +435,77 @@ print("After Swapping String values are: \(str1) and \(str2)")
 
 
 
+var temp = [0, 1, 2, 3, 4, 5, 6]
 
+
+for  i in (0..<temp.count) {
+    
+    
+}
+
+print(temp)
+
+
+let first = 0
+let last = temp.count
+let interval = 2
+
+
+
+
+let sequence = stride(from: first, to: last, by: interval)
+
+for element in sequence {
+    // do stuff
+    print(element)
+    
+    if element ==  temp.count-1{
+        break
+    }
+    let tempobj = temp[element]
+    temp[element] = temp[element+1]
+    temp[element + 1] = tempobj
+}
+
+print(temp)
+
+
+
+for element in stride(from: 0, to: temp.count, by: 2) {
+    print(element)
+    
+    
+    if element ==  temp.count-1{
+        break
+    }
+    let tempobj = temp[element]
+    temp[element] = temp[element+1]
+    temp[element + 1] = tempobj
+}
+
+
+print(temp)
+
+
+
+
+let wizards = ["Harry", "Ron", "Hermione"]
+let animals = ["Hedwig", "Scabbers", "Crookshanks", "Crdsfgookshanks"]
+
+//Using Zip key Word
+//The zip() function is designed to merge two sequences into a single sequence of tuples.
+let combined = Array(zip(wizards, animals))
+
+
+print(combined)
+
+
+
+
+
+
+let maxval = max(temp[0], temp[1])
+print(maxval)
 
 //-------------------------------
 struct Dog {
